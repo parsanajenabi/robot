@@ -14,7 +14,6 @@ users can also have real-time bitcoin price by sending "/price_btc" command.
 - activate venv by `.venv\srcripts\activate`
 - install requests `pip install requests`
 - install telegram library `pip install python-telegram-bot`
-- download the project files and enter the project folder by `git clone https://github.com/username/your-bot-repo.git
 cd your-bot-repo`
 ## How to use
 first enter "/start" command to start robot.
